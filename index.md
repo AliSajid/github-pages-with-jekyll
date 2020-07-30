@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to test page
 
-I'm glad you are here. I plan to talk about ...
+This is a test place using Github flavored markdown
